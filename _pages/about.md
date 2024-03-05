@@ -68,7 +68,12 @@ Economic,2018-04-11.
 - *2019.01* Founder and CEO. Shenzhen Lenho Health Tech Co.Ltd, Shenzhen, China.
 - *2016.06* Investment Manager. Beijing Shuimu Capital Co.Ltd, Beijing, China
 
+### Research Experience 
+---
 
+- *2019.01* Fieldwork Researcher. A Joint Research Project between “The Ministry of Human Resources and Social Security” and RenminUniv (Associate Professor Chen Chuanbo’s Research Group).
+- *2014.06* Entrant and Team leader. “Challenge Cup” National College Student Business Plan Competition.
+  
 # 🏭 Extracurricular Activities
 - *2012.09 - 2016.07*, Branch Secretary, CPC. Undergraduate CPC Branch of SME, BIT, Beijing.
   
