@@ -36,7 +36,7 @@ My research interest includes:
 
 # 📝 Publications 
 
-### English 
+### Journal and Media 
 ---
 
 - Chao Liu, Lei Shao. The rural toilet revolution is a systematic project [J]. Farmers’ Daily,2018-05-
