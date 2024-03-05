@@ -30,7 +30,7 @@ My research interest includes:
 
 
 # 🎓 Educations 
-- *2017.06 - 2019.12*, <a href="http://www.ruc.edu.cn/"><img class="svg" src="/images/Renmin_logo.svg" width="23pt"></a> Rural and Regional Development, Renmin University of China, Beijing China. 
+- *2017.09 - 2019.06*, <a href="http://www.ruc.edu.cn/"><img class="svg" src="/images/Renmin_logo.svg" width="23pt"></a> Rural and Regional Development, Renmin University of China, Beijing China. 
 - *2012.09 - 2016.06*, <a href="https://bit.edu.cn/"><img class="svg" src="/images/BIT_logo.svg" width="20pt"></a> International Economics and Trade, Beijing Insitute of Technology, Beijing China. 
  
 
