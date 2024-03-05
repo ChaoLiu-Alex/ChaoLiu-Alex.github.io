@@ -65,6 +65,9 @@ Economic,2018-04-11.
 
 # 💬 Work Experience
 
+### Industry Experience 
+---
+
 - *2019.01* Founder and CEO. Shenzhen Lenho Health Tech Co.Ltd, Shenzhen, China.
 - *2016.06* Investment Manager. Beijing Shuimu Capital Co.Ltd, Beijing, China
 
