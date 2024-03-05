@@ -19,7 +19,7 @@ redirect_from:
 
 Liu Chao received his master’s degree from Renmin University. His current supervisor is Prof. Hou Yuansi, and his research interests focus on the intersection of behavioral economics, rural tourism, and consumer psychology in the context of tourism. He has actively participated in some national-level academic research projects and has published several articles in Chinese journals and media outlets. Additionally, he has rich work experience in the field of finance.
  
- <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+ <a href='https://chaoliu-alex.github.io/'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 My research interest includes: 
 - Behavioral economics
