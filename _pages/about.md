@@ -64,6 +64,12 @@ Economic,2018-04-11.
 
 - *2024.05*, "Lover's Travelling Desynchronicity and Their Destination Satisfaction: The Mediating Role of Destination Image". At APacCHRIE 2024 (24-26 May) to be hosted by Yonsei University, Seoul, Korea.
 
+
+# 🏭 Public Seminar
+
+- *2023.10*, "Unveiling the Mysteries: Metaphysics, Feng Shui and Beyond". Department of Integrated Resort and Tourism Management, University of Macau.
+- *2020.12*, "Business Plan Writing Essentials and Hands-On Guide". Business Plan Competition, China Unicom Ltd.
+
 # 💬 Work Experience
 
 ### Industry Experience 
