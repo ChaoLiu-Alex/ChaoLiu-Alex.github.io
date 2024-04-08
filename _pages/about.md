@@ -65,12 +65,12 @@ Economic,2018-04-11.
 - *2024.05*, "Lover's Travelling Desynchronicity and Their Destination Satisfaction: The Mediating Role of Destination Image". At APacCHRIE 2024 (24-26 May) to be hosted by Yonsei University, Seoul, Korea.
 
 
-# 🏭 Public Seminar
+# 💡 Public Seminar
 
 - *2023.10*, "Unveiling the Mysteries: Metaphysics, Feng Shui and Beyond". Department of Integrated Resort and Tourism Management, University of Macau.
 - *2020.12*, "Business Plan Writing Essentials and Hands-On Guide". Business Plan Competition, China Unicom Ltd.
 
-# 💬 Work Experience
+# 🌒 Work Experience
 
 ### Industry Experience 
 ---
@@ -84,6 +84,6 @@ Economic,2018-04-11.
 - *2019.01* Fieldwork Researcher. A Joint Research Project between “The Ministry of Human Resources and Social Security” and RenminUniv (Associate Professor Chen Chuanbo’s Research Group).
 - *2014.06* Entrant and Team leader. “Challenge Cup” National College Student Business Plan Competition.
   
-# 🏭 Extracurricular Activities
+# 🧩 Extracurricular Activities
 - *2012.09 - 2016.07*, Branch Secretary, CPC. Undergraduate CPC Branch of SME, BIT, Beijing.
   
