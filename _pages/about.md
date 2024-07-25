@@ -62,7 +62,7 @@ Economic,2018-04-11.
 
 # 🏅 Conferences
 
-- *2024.05*, "Lover's Travelling Desynchronicity and Their Destination Satisfaction: The Mediating Role of Destination Image". At APacCHRIE 2024 (24-26 May) to be hosted by Yonsei University, Seoul, Korea.
+- Tao Zhou, Chao Liu, Yuqing Xing. *(2024)*, "Lover's Travelling Desynchronicity and Their Destination Satisfaction: The Mediating Role of Destination Image". APacCHRIE 2024, Seoul, Korea.
 
 
 # 💡 Public Seminar
