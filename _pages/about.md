@@ -63,7 +63,7 @@ Economic,2018-04-11.
 # 🏅 Conferences
 
 - Tao Zhou, Chao Liu, Yuqing Xing. *(2024)*, "Lover's Travelling Desynchronicity and Their Destination Satisfaction: The Mediating Role of Destination Image". APacCHRIE 2024, Seoul, Korea.
-
+- Liu Chao, Hou Yuansi. (2024), “Rural Tourism Products in the Perspective of Rural Revitalization: the Effect of Prosocial Tendency on Price Sensitivity”. Frontiers in Hospitality and Tourism Annual Research 2024, Shanghai.
 
 # 💡 Public Seminar
 
