@@ -40,6 +40,8 @@ My research interest includes:
 ### Journal and Media 
 ---
 
+- Liu, C., Hou, Y., Gu, R., & Cai, Y. (2025). A Dynamic Theoretical Model Based on Compensatory Ethics: How Religious Belief Shapes Tourists’ Pro-environmental Behavior. Journal of Hospitality & Tourism Research (SSCI Q1区). https://doi.org/10.1177/10963480251313491.
+
 - Chao Liu, Lei Shao. The rural toilet revolution is a systematic project [J]. Farmers’ Daily,2018-05-
 19(03).CN.11-0055.  
 
