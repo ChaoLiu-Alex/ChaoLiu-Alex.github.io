@@ -40,10 +40,9 @@ My research interest includes:
 ### Journal and Media 
 ---
 
-- Liu, C., Hou, Y., Gu, R., & Cai, Y. (2025). A Dynamic Theoretical Model Based on Compensatory Ethics: How Religious Belief Shapes Tourists’ Pro-environmental Behavior. Journal of Hospitality & Tourism Research (SSCI Q1区). https://doi.org/10.1177/10963480251313491.
+- Liu, C., Hou, Y., Gu, R., Cai, Y. (2025). A Dynamic Theoretical Model Based on Compensatory Ethics: How Religious Belief Shapes Tourists’ Pro-environmental Behavior. Journal of Hospitality & Tourism Research (SSCI Q1区). https://doi.org/10.1177/10963480251313491.
 
-- Chao Liu, Lei Shao. The rural toilet revolution is a systematic project [J]. Farmers’ Daily,2018-05-
-19(03).CN.11-0055.  
+- 刘超, 邵蕾. 农村厕所革命是个系统工程 [J]. 农民日报, 2018-05-19(03).CN.11-0055 (中央机关报刊).  
 
 - Chao Liu. Predicting strategic innovation for real estate companies in the new era[J]. Northern
 Lookout,2015(194):30-31.CN.23-3001.  
@@ -54,11 +53,9 @@ Wealth,2013(08).ISSN.1671-2226
 -	Chao Liu. The impact of formal credit constraints on rural consumption – an empirical analysis based on
 2013 CHFS survey data[D].Renmin Univ,2019.  
 
--	Chao Liu. Agricultural Paradox: The Development of China's Agricultural Mechanization[N].China
-Economy Broadcast,2018-04-27.
+-	刘超. 农业悖论之解：中国农业机械化的发展[N]. 中国经济新闻联播,2018-04-27 (中央级媒体).
 
-- Chao Liu. Blockchain financial developing prospects in the rural field[N].China Industrial
-Economic,2018-04-11. 
+- 刘超. 三农区块链金融发展前景展望 [N]. 中国产业经济网,2018-04-11 (中央级媒体). 
 
 
 
