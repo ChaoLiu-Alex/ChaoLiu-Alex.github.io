@@ -40,7 +40,7 @@ My research interest includes:
 ### Journal and Media 
 ---
 
-- Liu, C., Hou, Y., Gu, R., Cai, Y. (2025). A Dynamic Theoretical Model Based on Compensatory Ethics: How Religious Belief Shapes Tourists’ Pro-environmental Behavior. Journal of Hospitality & Tourism Research (SSCI Q1区). https://doi.org/10.1177/10963480251313491.
+- Liu, C., Hou, Y., Gu, R., Cai, Y. (2025). A Dynamic Theoretical Model Based on Compensatory Ethics: How Religious Belief Shapes Tourists’ Pro-environmental Behavior. Journal of Hospitality and Tourism Research (SSCI Q1区). https://doi.org/10.1177/10963480251313491.
 
 - 刘超, 邵蕾. 农村厕所革命是个系统工程 [J]. 农民日报, 2018-05-19(03).CN.11-0055 (中央机关报刊).  
 
